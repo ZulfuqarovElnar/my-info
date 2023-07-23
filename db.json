@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "firstName": "Elnar",
+      "lastName": "Zulfuqarov",
+      "category": "Developer",
+      "date": "22.07.2023"
+    },
+    {
+      "id": 2,
+      "firstName": "kfkes",
+      "lastName": "jnskfns",
+      "category": "Developer",
+      "date": "23.07.2023"
+    }
+  ]
+  
+}
